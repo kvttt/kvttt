@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my page! I'm Kaibo Tang.
+ 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kvttt&show_icons=true&theme=gotham" alt="kvttt" />
+
 <!--
 **kvttt/kvttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
