@@ -1,6 +1,6 @@
 ### Hi there~ 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kvttt&show_icons=true&theme=monokai&show=discussions_answered,prs_merged)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kvttt&show_icons=true&show=discussions_answered,prs_merged)
 
 Welcome to my page! I'm Kaibo Tang. 
 
@@ -10,10 +10,10 @@ I obtained my B.S.P.H in Biostatistics and B.S. in Mathematics with a minor in C
 
 During my free time, I contribute to:
 
-[![MONAI](https://github-readme-stats.vercel.app/api/pin/?username=Project-MONAI&repo=MONAI&theme=monokai)](https://github.com/Project-MONAI/MONAI)
+[![MONAI](https://github-readme-stats.vercel.app/api/pin/?username=Project-MONAI&repo=MONAI)](https://github.com/Project-MONAI/MONAI)
 
-[![MONAI](https://github-readme-stats.vercel.app/api/pin/?username=Project-MONAI&repo=tutorials&theme=monokai)](https://github.com/Project-MONAI/tutorials)
+[![MONAI](https://github-readme-stats.vercel.app/api/pin/?username=Project-MONAI&repo=tutorials)](https://github.com/Project-MONAI/tutorials)
 
-[![MONAI](https://github-readme-stats.vercel.app/api/pin/?username=dipy&repo=dipy&theme=monokai)](https://github.com/dipy/dipy)
+[![MONAI](https://github-readme-stats.vercel.app/api/pin/?username=dipy&repo=dipy)](https://github.com/dipy/dipy)
 
 Feel free to check out [my homepage](https://kvttt.github.io/) and my [Curriculum Vitae](https://kvttt.github.io/files/Kaibo_Tang_CV.pdf).
