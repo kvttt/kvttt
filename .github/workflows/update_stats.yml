@@ -24,7 +24,7 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&theme=gruvbox&show_icons=true&cache_seconds=7200&hide=prs,issues
-          path: .github/profile/stats.svg
+          path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
   
       - name: Commit cards
