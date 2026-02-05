@@ -1,6 +1,6 @@
 ### Hi there~ 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kvttt&show_icons=true&show=discussions_answered,prs_merged)
+![GitHub stats](./profile/stats.svg)
 
 Welcome to my page! I'm Kaibo Tang. 
 
