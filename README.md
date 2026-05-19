@@ -19,4 +19,6 @@ During my free time, I contribute to:
 
 ![DIPY](./profile/dipy.svg)
 
+![DeepInverse](./profile/deepinv.svg)
+
 Feel free to check out [my homepage](https://kvttt.github.io/) and my [Curriculum Vitae](https://kvttt.github.io/files/Kaibo_Tang_CV.pdf).
