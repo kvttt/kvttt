@@ -50,6 +50,14 @@ jobs:
           options: 'username=dipy&repo=dipy&show_owner=true&show_icons=true'
           path: profile/dipy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: pin
+          options: 'username=deepinv&repo=deepinv&show_owner=true&show_icons=true'
+          path: profile/deepinv.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
   
       - name: Commit cards
         run: |
