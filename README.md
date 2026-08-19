@@ -1,6 +1,6 @@
 ### Hi there~ 👋
 
-![GitHub stats](./profile/stats.svg)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=kvttt&show_icons=true&show=discussions_answered,prs_merged)
 
 Welcome to my page! I'm Kaibo Tang. 
 
@@ -13,12 +13,12 @@ My research focused on developing infant-dedicated deep learning tools for image
 
 During my free time, I contribute to:
 
-![MONAI](./profile/monai.svg)
+[![MONAI](https://github-readme-stats.vercel.app/api/pin/?username=Project-MONAI&repo=MONAI)](https://github.com/Project-MONAI/MONAI)
 
-![MONAI Tutorial](./profile/monai_tutorial.svg)
+[![MONAI_tutorials](https://github-stats-extended.vercel.app/api/pin/?username=Project-MONAI&repo=tutorials)](https://github.com/Project-MONAI/tutorials)
 
-![DIPY](./profile/dipy.svg)
+[![DIPY](https://github-stats-extended.vercel.app/api/pin/?username=dipy&repo=dipy)](https://github.com/dipy/dipy)
 
-![DeepInverse](./profile/deepinv.svg)
+[![DeepInverse](https://github-stats-extended.vercel.app/api/pin/?username=deepinv&repo=deepinv)](https://github.com/dipy/dipy)
 
 Feel free to check out [my homepage](https://kvttt.github.io/) and my [Curriculum Vitae](https://kvttt.github.io/files/Kaibo_Tang_CV.pdf).
