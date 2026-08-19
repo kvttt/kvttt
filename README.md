@@ -13,7 +13,7 @@ My research focused on developing infant-dedicated deep learning tools for image
 
 During my free time, I contribute to:
 
-[![MONAI](https://github-readme-stats.vercel.app/api/pin/?username=Project-MONAI&repo=MONAI)](https://github.com/Project-MONAI/MONAI)
+[![MONAI](https://github-stats-extended.vercel.app/api/pin/?username=Project-MONAI&repo=MONAI)](https://github.com/Project-MONAI/MONAI)
 
 [![MONAI_tutorials](https://github-stats-extended.vercel.app/api/pin/?username=Project-MONAI&repo=tutorials)](https://github.com/Project-MONAI/tutorials)
 
